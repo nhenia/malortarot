@@ -6,13 +6,13 @@
 Start button: begin
 
 # The small title shown above the card.
-Title: Lagniappe
+Title: MalörTarot
 
 # The button to pull a new card.
 Draw-again button: draw another
 
 # The little label before the closing sensory line.
-Tell label: the tell
+Tell label: *=*
 
 # What the card says when it lands right-side up / upside-down.
 Upright label: upright
